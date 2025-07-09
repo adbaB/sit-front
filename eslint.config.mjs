@@ -17,6 +17,7 @@ export default [
       indent: ['warn', 2],
       quotes: ['warn', 'single'],
       'no-trailing-spaces': 'warn',
+      'no-unused-vars': 'off',
     },
   },
   {

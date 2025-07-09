@@ -11,3 +11,15 @@ build
 next.config.ts
 postcss.config.mjs
 tailwind.config.ts
+src/components/ui/
+.vscode
+.husky
+.gitignore
+src/app/favicon.ico
+DockerFile
+components.json
+.prettierignore
+package.json
+src/app/globals.css
+tsconfig.json
+.dockerignore
